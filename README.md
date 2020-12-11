@@ -1,3 +1,3 @@
 # AbsSecurePwd
 
-Application are present in the master branch of this repository.
+Benchmark application are present in the master branch of this repository.
