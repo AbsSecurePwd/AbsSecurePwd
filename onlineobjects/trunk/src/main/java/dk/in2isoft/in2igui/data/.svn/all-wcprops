@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/in2igui/data
+END
+ItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/ItemData.java
+END
+KeyboardNavigatorItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/KeyboardNavigatorItem.java
+END
+MarkupWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/MarkupWriter.java
+END
+ListDataRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/ListDataRow.java
+END
+FormulaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/FormulaData.java
+END
+InfoViewDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/InfoViewDataItem.java
+END
+VideoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/VideoData.java
+END
+ObjectData.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/ObjectData.java
+END
+LocationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/LocationData.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/Edge.java
+END
+Diagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/in2igui/data/Diagram.java
+END
+ListData.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/ListData.java
+END
+Option.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/Option.java
+END
+ListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/ListWriter.java
+END
+EventData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/EventData.java
+END
+ListState.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/ListState.java
+END
+WidgetData.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/WidgetData.java
+END
+InfoViewData.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/InfoViewData.java
+END
+TextFieldData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/TextFieldData.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/Property.java
+END
+LocationDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/LocationDataImpl.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/Node.java
+END
+ListObjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/in2igui/data/ListObjects.java
+END

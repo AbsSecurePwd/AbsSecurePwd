@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/photos
+END
+PhotoIndexQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/photos/PhotoIndexQuery.java
+END
+SimplePhotoQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/photos/SimplePhotoQuery.java
+END
+PhotoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/photos/PhotoService.java
+END
+SimplePhotoPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/photos/SimplePhotoPerspective.java
+END

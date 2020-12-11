@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/416/trunk/src/main/java/dk/in2isoft/onlineobjects/tasks
+END
+TestImportInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/416/trunk/src/main/java/dk/in2isoft/onlineobjects/tasks/TestImportInformation.java
+END
+TestExportSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/416/trunk/src/main/java/dk/in2isoft/onlineobjects/tasks/TestExportSchema.java
+END
+TestWordNetImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/416/trunk/src/main/java/dk/in2isoft/onlineobjects/tasks/TestWordNetImporter.java
+END

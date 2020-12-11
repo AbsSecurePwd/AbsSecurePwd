@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/onlineobjects/core
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/onlineobjects/core/Query.java
+END
+DummyPrivileged.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/DummyPrivileged.java
+END
+AbstractModelQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/AbstractModelQuery.java
+END
+SystemLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/SystemLoader.java
+END
+FieldLimitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/FieldLimitation.java
+END
+PropertyLimitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/PropertyLimitation.java
+END
+PairSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/PairSearchResult.java
+END
+PairQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/PairQuery.java
+END
+ModelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/ModelService.java
+END
+IdQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/IdQuery.java
+END
+ItemMapQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/ItemMapQuery.java
+END
+UserSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/UserSession.java
+END
+ItemQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/ItemQuery.java
+END
+EntitylistSynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/EntitylistSynchronizer.java
+END
+ConsistencyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/ConsistencyChecker.java
+END
+ModelQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/ModelQuery.java
+END
+AbstractDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/AbstractDAO.java
+END
+SecurityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/SecurityService.java
+END
+Core.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/Core.java
+END
+SessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/SessionListener.java
+END
+Privileged.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/Privileged.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/Pair.java
+END
+SubSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/SubSession.java
+END
+PasswordEncryptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/PasswordEncryptionService.java
+END
+LocationQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/LocationQuery.java
+END
+CustomQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/CustomQuery.java
+END
+Results.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/Results.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/SearchResult.java
+END
+UserQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/UserQuery.java
+END

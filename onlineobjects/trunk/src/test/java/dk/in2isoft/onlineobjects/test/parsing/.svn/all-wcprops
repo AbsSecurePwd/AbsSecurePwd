@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/parsing
+END
+TestHTMLParsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/parsing/TestHTMLParsing.java
+END
+TestOpenNLP.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/parsing/TestOpenNLP.java
+END
+TestCSVParsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/parsing/TestCSVParsing.java
+END

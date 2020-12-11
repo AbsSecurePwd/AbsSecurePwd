@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/437/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community
+END
+UserProfileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/UserProfileInfo.java
+END
+InternetAddressImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/InternetAddressImporter.java
+END
+InvitationPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/InvitationPage.java
+END
+ImageGalleryImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/ImageGalleryImporter.java
+END
+ProfileImageImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/ProfileImageImporter.java
+END
+CommunityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/437/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/CommunityDAO.java
+END
+CommunityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/CommunityController.java
+END
+CommunitySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/CommunitySession.java
+END
+UserProfileInfoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/UserProfileInfoUtil.java
+END
+PrivateSpaceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/PrivateSpaceController.java
+END

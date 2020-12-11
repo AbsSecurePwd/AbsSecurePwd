@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/431/trunk/src/test/java/dk/in2isoft/onlineobjects/test
+END
+AbstractTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/AbstractTestCase.java
+END
+AllSlowTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/AllSlowTests.java
+END
+AbstractSpringTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/416/trunk/src/test/java/dk/in2isoft/onlineobjects/test/AbstractSpringTestCase.java
+END
+AllFastTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/AllFastTests.java
+END
+AllModelTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/AllModelTests.java
+END

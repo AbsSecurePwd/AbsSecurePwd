@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/http
+END
+URLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/http/URLUtil.java
+END
+FilePusher.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/http/FilePusher.java
+END
+HeaderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/http/HeaderUtil.java
+END
+FileDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/http/FileDownload.java
+END

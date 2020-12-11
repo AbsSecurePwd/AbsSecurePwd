@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/photos
+END
+front.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/photos/front.xhtml
+END
+photo.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/photos/photo.xhtml
+END
+sidebar.part.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/photos/sidebar.part.xhtml
+END
+user.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/photos/user.xhtml
+END
+gallery.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/photos/gallery.xhtml
+END

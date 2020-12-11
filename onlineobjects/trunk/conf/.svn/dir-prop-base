@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 328
+hibernate.cfg.xml
+hibernate.cfg.xml.deployed
+log4j.properties.deployed
+onlineobjects.cfg.xml.deployed
+onlineobjects.cfg.xml
+onlineobjects.cfg.xml.ah.deployed
+hibernate.cfg.xml.ah.deployed
+school.cfg.xml
+ah
+test.properties
+log4j.properties
+configuration.properties
+configuration.properties.deployed
+configuration.test.properties
+
+END

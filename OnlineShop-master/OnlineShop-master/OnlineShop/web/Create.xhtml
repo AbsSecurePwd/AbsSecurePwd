@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:c="http://java.sun.com/jsp/jstl/core"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <c:if test='#{account.account.rolename != "admin"}'>
+            <script>
+                window.location = "/OnlineShop/faces/Invalid.xhtml";
+            </script>
+        </c:if>
+        <h1>New product</h1>
+        <center>
+            <h:messages errorStyle="color: red" infoStyle="color: green" layout="table"/>
+            <p><font color="red">#{productBean.message}</font></p>
+            <br/>
+            <h:form>
+                <table>
+                    <tr>
+                        <td>Product name</td>
+                        <td>
+                            <h:inputText id="name" value="#{productBean.product.name}" 
+                                         required="true"
+                                         requiredMessage="Product name is required!"/>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>Description</td>
+                        <td>
+                            <h:inputText id="description" value="#{productBean.product.description}"/>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>Price</td>
+                        <td>
+                            <h:inputText id="price" value="#{productBean.product.price}" 
+                                         required="true"
+                                         requiredMessage="Product price is required!">
+                                <f:validateLongRange
+                                    minimum="1"/>
+                            </h:inputText>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>Quantity</td>
+                        <td>
+                            <h:inputText id="quantity" value="#{productBean.product.quantity}" 
+                                         required="true"
+                                         requiredMessage="Product quantity is required!">
+                                <f:validateLongRange
+                                    minimum="1"/>
+                            </h:inputText>
+                        </td>
+                    </tr>
+                </table>
+                <h:commandButton action="#{productBean.createProduct}" value="Create" >
+                </h:commandButton>
+            </h:form>
+            <p><a href="/OnlineShop/faces/Admin.xhtml">Back to Admin Panel</a></p>
+        </center>
+    </h:body>
+</html>
+

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/README.txt
+END
+dummies.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/dummies.rdf
+END
+glossary.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/glossary.rdf
+END
+locationHolonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/locationHolonymOf.rdf
+END
+locationMeronymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/locationMeronymOf.rdf
+END
+involvedAgent.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/involvedAgent.rdf
+END
+usedFor.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/usedFor.rdf
+END
+synsets.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/synsets.rdf
+END
+hyponymOf_taxonomic.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/hyponymOf_taxonomic.rdf
+END
+concerns.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/concerns.rdf
+END
+involvedPatient.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/involvedPatient.rdf
+END
+eqHyponymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/eqHyponymOf.rdf
+END
+dn_full_spec.rdfs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/dn_full_spec.rdfs
+END
+DanNet_full.owl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/DanNet_full.owl
+END
+eqSynonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/eqSynonymOf.rdf
+END
+instanceOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/instanceOf.rdf
+END
+w3c_wordnet_spec.rdfs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/w3c_wordnet_spec.rdfs
+END
+wordsenses.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/wordsenses.rdf
+END
+usedForObject.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/usedForObject.rdf
+END
+hypernymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/hypernymOf.rdf
+END
+madeBy.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/madeBy.rdf
+END
+partHolonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/partHolonymOf.rdf
+END
+partMeronymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/partMeronymOf.rdf
+END
+memberHolonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/memberHolonymOf.rdf
+END
+memberMeronymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/memberMeronymOf.rdf
+END
+nearSynonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/nearSynonymOf.rdf
+END
+domain.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/domain.rdf
+END
+instanceOf_taxonomic.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/instanceOf_taxonomic.rdf
+END
+meronymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/meronymOf.rdf
+END
+DanNet_w3c.owl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/DanNet_w3c.owl
+END
+involvedInstrument.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/involvedInstrument.rdf
+END
+roleAgent.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/roleAgent.rdf
+END
+nearAntonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/nearAntonymOf.rdf
+END
+part_of_speech.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/part_of_speech.rdf
+END
+xposNearSynonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/xposNearSynonymOf.rdf
+END
+catalog-v001.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/catalog-v001.xml
+END
+register.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/register.rdf
+END
+rolePatient.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/rolePatient.rdf
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/LICENSE.txt
+END
+madeofHolonymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/madeofHolonymOf.rdf
+END
+eqHypernymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/eqHypernymOf.rdf
+END
+madeofMeronymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/madeofMeronymOf.rdf
+END
+hyponymOf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/hyponymOf.rdf
+END
+synset_attributes.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/synset_attributes.rdf
+END
+RELEASE_NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/RELEASE_NOTES.txt
+END
+ontological_types.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/ontological_types.rdf
+END
+words.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/413/trunk/src/test/resources/DanNet-2.1_owl/words.rdf
+END

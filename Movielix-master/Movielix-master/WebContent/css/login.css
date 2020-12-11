@@ -1,0 +1,26 @@
+#container{
+	width: 360px;
+	margin:100px auto;
+	box-shadow: 0 0 3px rgba(0,0,0,0.1);
+  	background: #f7f7f7;
+  	text-align: center;
+}
+
+h1{
+	margin:0;
+	padding: 10px 20px;
+	font-weight: normal;
+	font-size:24px;
+}
+
+#cart{
+	margin:100px auto;
+	text-align: center;
+}
+
+body{
+	background: #bdc3c7;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
+}

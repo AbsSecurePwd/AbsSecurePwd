@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model
+END
+Invitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Invitation.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Property.java
+END
+Rating.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Rating.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Address.java
+END
+Privilege.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Privilege.java
+END
+Pile.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Pile.java
+END
+HtmlPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/HtmlPart.java
+END
+EmailAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/EmailAddress.java
+END
+WebStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/WebStructure.java
+END
+InternetAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/InternetAddress.java
+END
+ImageGallery.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/ImageGallery.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Comment.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Application.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Location.java
+END
+RemoteAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/RemoteAccount.java
+END
+ImagePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/ImagePart.java
+END
+WebPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/WebPage.java
+END
+Vote.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Vote.java
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Relation.java
+END
+HeaderPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/HeaderPart.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Event.java
+END
+PhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/PhoneNumber.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Image.java
+END
+CompoundDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/CompoundDocument.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Language.java
+END
+WebNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/WebNode.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Item.java
+END
+WebSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/WebSite.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Video.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Person.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Word.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Entity.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/Topic.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/User.java
+END
+LexicalCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/model/LexicalCategory.java
+END

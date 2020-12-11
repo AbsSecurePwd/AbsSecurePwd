@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model
+END
+TestIndexService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestIndexService.java
+END
+TestWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestWord.java
+END
+TestRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestRelations.java
+END
+TestModelDirt.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestModelDirt.java
+END
+TestUserQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestUserQuery.java
+END
+TestQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestQuery.java
+END
+TestPublicAccessibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestPublicAccessibility.java
+END
+TestPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestPerson.java
+END
+TestAdminUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/model/TestAdminUser.java
+END

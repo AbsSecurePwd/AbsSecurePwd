@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Employee Dashboard</title>
+	<link rel="stylesheet" href="./css/login.css">
+</head>
+<body>
+
+
+
+	<div id="NewStar" class="tabcontent">
+	  <h3>New Star</h3>
+	  <form id="star_form" method="post" action="#">
+	    <label><b>Full Name</b></label>
+	    <input type="text" placeholder="Enter Star's Name" name="star_name" required>
+	    <br>
+	    <label><b>Birth Year (Optional)</b></label>
+	    <input type="text" placeholder="Enter Star's Birth Year" name="star_birth_year" >
+	    <br>
+	    <input type="submit" value="Submit" onclick="starSubmitForm()">
+		</form>
+	</div>
+	
+	<div id="NewMovie" class="tabcontent">
+	  <h3>New Movie</h3>
+	  <form id="movie_form" method="post" action="#">
+	    <label><b>Title</b></label>
+	    <input type="text" placeholder="Enter Title" name="movie_title" required>
+	    <br>
+	    <label><b>Release Year</b></label>
+	    <input type="text" placeholder="Enter Release Year" name="movie_year" required >
+	    <br>
+	    <label><b>Director</b></label>
+	    <input type="text" placeholder="Enter Director" name="movie_director" required>
+	    <br>
+	    <label><b>Actor</b></label>
+	    <input type="text" placeholder="Enter A Star" name="movie_star" required>
+	    <br>
+	    <label><b>Genre</b></label>
+	    <input type="text" placeholder="Enter A Genre" name="movie_genre" required>
+	    <br>
+	    <input type="submit" value="Submit" id="2" onclick="movieSubmitForm()">
+		</form>
+	</div>
+	
+	<div id="submit_message" class="total-title"></div>
+	
+	<div id="TableInfo" class="tabcontent">
+	</div>
+
+
+
+
+
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="./js/_dashboard.js"></script>
+</html>

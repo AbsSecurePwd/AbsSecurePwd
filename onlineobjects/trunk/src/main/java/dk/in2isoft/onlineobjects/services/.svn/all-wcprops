@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/440/trunk/src/main/java/dk/in2isoft/onlineobjects/services
+END
+ImportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/ImportService.java
+END
+PageRenderingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/PageRenderingService.java
+END
+FileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/FileService.java
+END
+PasswordRecoveryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/PasswordRecoveryService.java
+END
+SessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/SessionService.java
+END
+LanguageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/440/trunk/src/main/java/dk/in2isoft/onlineobjects/services/LanguageService.java
+END
+RatingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/RatingService.java
+END
+ConversionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/ConversionService.java
+END
+RemoteDataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/RemoteDataService.java
+END
+EmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/EmailService.java
+END
+PileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/428/trunk/src/main/java/dk/in2isoft/onlineobjects/services/PileService.java
+END
+DispatchingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/DispatchingService.java
+END
+WebModelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/WebModelService.java
+END
+LifeCycleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/LifeCycleService.java
+END
+ConsistencyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/ConsistencyService.java
+END
+GraphService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/GraphService.java
+END
+SemanticService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/413/trunk/src/main/java/dk/in2isoft/onlineobjects/services/SemanticService.java
+END
+FeedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/FeedService.java
+END
+StorageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/services/StorageService.java
+END
+DictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/428/trunk/src/main/java/dk/in2isoft/onlineobjects/services/DictionaryService.java
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/437/trunk/src/main/java/dk/in2isoft/onlineobjects/services/PersonService.java
+END
+ConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/416/trunk/src/main/java/dk/in2isoft/onlineobjects/services/ConfigurationService.java
+END

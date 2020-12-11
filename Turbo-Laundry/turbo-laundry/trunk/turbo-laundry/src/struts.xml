@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+        <constant name="struts.devMode" value="true" />
+        
+        <package name="turbolaundry" namespace="/" extends="struts-default">
+                <interceptors>
+                        <interceptor name="authInterceptor" class="itapp.turbolaundry.interceptors.AuthInterceptor"/>
+                        <interceptor-stack name="SecureStack">                     
+                                <interceptor-ref name="defaultStack"/>  
+                                <interceptor-ref name="authInterceptor" />                
+                        </interceptor-stack>
+                </interceptors>
+        
+
+                <action name="Authentication" class="itapp.turbolaundry.actions.Authentication" method="credentialsCheck">
+                        <result name="success" type="redirect">ACalendar</result>                              
+                        <result name="failure">index.jsp</result>
+                
+                </action>
+                
+                <action name="Logout" class="itapp.turbolaundry.actions.Logout">                                                
+                        <result name="logout">index.jsp</result>   
+                        <result name="redirect" type="redirect">${redirectUrl}</result>     
+                </action>
+                
+                
+                <action name="*" class="itapp.turbolaundry.actions.{1}">
+                <interceptor-ref name="SecureStack"/>
+                        <result name="success">Views/{1}.jsp</result>
+                        <result name="redirect" type="redirect">${redirectUrl}</result>
+                        <result name="failure">index.jsp</result>
+                        <result name="error">error.jsp</result>
+                        <result name="adminCalendar">Views/ACalendarAdm.jsp</result>
+                        <result name="superCalendar">Views/ACalendarSup.jsp</result>
+                        <result name="userCalendar">Views/ACalendar.jsp</result>
+                        <result name="adminDay">Views/ADayRO.jsp</result>
+                        <result name="blockedUserDay">Views/ADayRO.jsp</result>
+                        <result name="superDay">Views/ADaySup.jsp</result>
+                        <result name="userDay">Views/ADay.jsp</result>
+                        
+                        
+                </action>               
+                
+                <action name="Homepage" >                                               
+                        <interceptor-ref name="SecureStack"/>
+                        <result name="success" type="redirect">ACalendar</result>                     
+                        <result name="failure">index.jsp</result>       
+                </action>
+                
+                 <action name="Rules" >                                               
+                        <interceptor-ref name="SecureStack"/>
+                        <result name="redirect" type="redirect">${redirectUrl}</result> 
+                        <result name="success" type="redirect">Views/Rules.jsp</result>                                                              
+                </action>
+                
+               
+        </package>
+
+</struts>

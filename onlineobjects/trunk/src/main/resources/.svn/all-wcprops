@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/421/trunk/src/main/resources
+END
+log4j.properties.example
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/411/trunk/src/main/resources/log4j.properties.example
+END
+model.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/411/trunk/src/main/resources/model.hbm.xml
+END
+onlineobjects.cfg.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/411/trunk/src/main/resources/onlineobjects.cfg.xml.example
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/411/trunk/src/main/resources/applicationContext.xml
+END
+hibernate.cfg.xml.example
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/411/trunk/src/main/resources/hibernate.cfg.xml.example
+END
+configuration.properties.example
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/resources/configuration.properties.example
+END
+model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/411/trunk/src/main/resources/model.xml
+END
+quartz.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/411/trunk/src/main/resources/quartz.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/448/trunk/src/main/webapp/WEB-INF
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/dwr.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/web.xml
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/442/trunk/src/main/webapp/WEB-INF/faces-config.xml
+END

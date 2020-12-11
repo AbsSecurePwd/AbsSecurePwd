@@ -1,0 +1,16 @@
+#summary Business Logic of the application.
+
+<h2>Business Logic of the application:</h2>
+<ul>
+<li> 3 timeslots for 2 person room and 4 timeslots for 3 person room.</li>
+<li> Booking can't be made later than 1 hour before laundry.</li>
+<li> Booking can't be made only for 4 weeks period.</li>
+<li> If you waste more time that has been booked you will have a penalty for 1 week.</li>
+<li> If you break any regulation you will have a penalty for 1 week.</li>
+<li> Booking could be canceled not later than 2 hours before the time.</li>
+<li> You can book laundry only from the floor he is living at.</li>
+<li> Laundry costs 2 zl per hour.</li>
+<li> users have their personal accounts which are created by the administrator as part of signing contract procedure and deleted when user leaving the dormitory</li>
+<li> There is 1 administrator per dormitory. It is official person.</li>
+<li> There is 1 supervisor per floor. It is regular student elected to have extended rights.</li> 
+</ul>

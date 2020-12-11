@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:c="http://java.sun.com/jsp/jstl/core"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <c:if test='#{account.account.rolename != "admin"}'>
+            <script>
+                window.location = "/OnlineShop/faces/Invalid.xhtml";
+            </script>
+        </c:if>
+        <h1>Admin</h1>
+        <center>
+            <h:form>
+                <h:commandLink action="#{productBean.prepareCreate}" value="Insert new product"/>
+            </h:form>
+            <br/>
+            <table border="1">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Action</th>
+                </tr>
+                <c:forEach items="#{home.products}" var="product" varStatus="counter">    
+                    <h:form>
+                        <tr>
+                            <td>#{product.productId}</td>
+                            <td>#{product.name}</td>
+                            <td>#{product.description}</td>
+                            <td>\$ #{product.price}</td>
+                            <td>#{product.quantity}</td>
+                            <td>
+                                <h:commandLink action="#{productBean.prepareEdit}" value="Edit">
+                                    <f:setPropertyActionListener value="#{product.productId}" 
+                                                                 target="#{productBean.selectedProduct}" />
+                                </h:commandLink>
+                                | 
+                                <h:commandButton action="#{productBean.deleteProduct}" value="Delete" >
+                                    <f:setPropertyActionListener value="#{product.productId}" 
+                                                                 target="#{productBean.selectedProduct}" />
+                                </h:commandButton>
+                            </td>
+                        </tr>
+                    </h:form>
+                </c:forEach>
+            </table>
+            <br/>
+            <p><a href="/OnlineShop/faces/index.xhtml">Back to homepage</a></p>
+        </center>
+
+    </h:body>
+</html>
+

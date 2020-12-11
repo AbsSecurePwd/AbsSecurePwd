@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/templates/clean
+END
+class.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/templates/clean/class.tmpl
+END
+symbol.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/templates/clean/symbol.tmpl
+END
+allclasses.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/templates/clean/allclasses.tmpl
+END
+publish.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/templates/clean/publish.js
+END
+index.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/templates/clean/index.tmpl
+END
+allfiles.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/templates/clean/allfiles.tmpl
+END

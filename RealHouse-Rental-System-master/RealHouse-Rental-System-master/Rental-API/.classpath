@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="lib/cdi-api-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/cdi-api-sources.jar"/>
+	<classpathentry kind="lib" path="lib/cdi-api.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="lib/weld-api-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-api-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-api.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-impl-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-impl-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-impl.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-jsf-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-jsf-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-jsf.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-core.jar"/>
+	<classpathentry kind="lib" path="lib/weld-se-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-se-core-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-se-core.jar"/>
+	<classpathentry kind="lib" path="lib/weld-se-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-se.jar"/>
+	<classpathentry kind="lib" path="lib/weld-servlet-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-servlet-core-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-servlet-core.jar"/>
+	<classpathentry kind="lib" path="lib/weld-servlet-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-servlet-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-servlet.jar"/>
+	<classpathentry kind="lib" path="lib/weld-spi-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/weld-spi-sources.jar"/>
+	<classpathentry kind="lib" path="lib/weld-spi.jar"/>
+	<classpathentry kind="lib" path="lib/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

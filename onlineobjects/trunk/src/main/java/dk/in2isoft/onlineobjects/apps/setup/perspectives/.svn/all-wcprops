@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/perspectives
+END
+UserPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/perspectives/UserPerspective.java
+END
+InternetAddressPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/perspectives/InternetAddressPerspective.java
+END
+SchedulerStatusPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/perspectives/SchedulerStatusPerspective.java
+END

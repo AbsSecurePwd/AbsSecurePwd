@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/421/trunk/src/main/resources/spring
+END
+app-videosharing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/421/trunk/src/main/resources/spring/app-videosharing.xml
+END
+app-people.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-people.xml
+END
+app-community.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-community.xml
+END
+module-inbox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/411/trunk/src/main/resources/spring/module-inbox.xml
+END
+app-developer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-developer.xml
+END
+module-organic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/411/trunk/src/main/resources/spring/module-organic.xml
+END
+module-language.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/resources/spring/module-language.xml
+END
+app-front.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-front.xml
+END
+core-services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/411/trunk/src/main/resources/spring/core-services.xml
+END
+app-account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-account.xml
+END
+module-networking.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/411/trunk/src/main/resources/spring/module-networking.xml
+END
+core-remoting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/421/trunk/src/main/resources/spring/core-remoting.xml
+END
+core-scheduling.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/resources/spring/core-scheduling.xml
+END
+app-words.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-words.xml
+END
+app-tools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-tools.xml
+END
+app-setup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-setup.xml
+END
+combined.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/src/main/resources/spring/combined.xml
+END
+app-reader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-reader.xml
+END
+core-jobs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/411/trunk/src/main/resources/spring/core-jobs.xml
+END
+module-synchronization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/resources/spring/module-synchronization.xml
+END
+module-onlinepublisher.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/resources/spring/module-onlinepublisher.xml
+END
+app-api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-api.xml
+END
+app-desktop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-desktop.xml
+END
+module-images.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/411/trunk/src/main/resources/spring/module-images.xml
+END
+app-photos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/411/trunk/src/main/resources/spring/app-photos.xml
+END
+core-publishing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/resources/spring/core-publishing.xml
+END

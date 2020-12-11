@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 255
+configuration.properties.deployed
+
+hibernate.cfg.xml
+
+configuration.test.properties
+
+onlineobjects.cfg.xml.deployed
+
+hibernate.cfg.xml.deployed
+
+test.properties
+
+configuration.properties
+
+log4j.properties.deployed
+
+log4j.properties
+
+onlineobjects.cfg.xml
+
+END

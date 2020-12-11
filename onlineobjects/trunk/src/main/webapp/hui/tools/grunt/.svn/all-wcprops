@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/439/trunk/src/main/webapp/hui/tools/grunt
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/439/trunk/src/main/webapp/hui/tools/grunt/package.json
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/439/trunk/src/main/webapp/hui/tools/grunt/.gitignore
+END
+Gruntfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/439/trunk/src/main/webapp/hui/tools/grunt/Gruntfile.js
+END

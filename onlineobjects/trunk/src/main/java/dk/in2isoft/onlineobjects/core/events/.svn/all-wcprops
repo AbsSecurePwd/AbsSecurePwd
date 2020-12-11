@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/events
+END
+ModelEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/events/ModelEventListener.java
+END
+ModelPrivilegesEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/events/ModelPrivilegesEventListener.java
+END
+EventService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/events/EventService.java
+END
+AnyModelChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/events/AnyModelChangeListener.java
+END

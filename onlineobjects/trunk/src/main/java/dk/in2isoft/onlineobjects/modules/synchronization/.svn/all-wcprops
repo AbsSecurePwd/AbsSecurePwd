@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/synchronization
+END
+MailWatchingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/synchronization/MailWatchingService.java
+END
+MailListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/synchronization/MailListener.java
+END
+MailWatchingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/modules/synchronization/MailWatchingJob.java
+END

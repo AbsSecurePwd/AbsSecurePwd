@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/448/trunk
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/388/trunk/ivy.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/303/trunk/ivysettings.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/435/trunk/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/448/trunk/readme.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/429/trunk/Makefile
+END
+build.sample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/297/trunk/build.sample.xml
+END
+old.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/413/trunk/old.classpath
+END
+ivy.build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/296/trunk/ivy.build.xml
+END

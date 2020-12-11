@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/428/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain
+END
+TestRestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestRestUtil.java
+END
+TestYoutubeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestYoutubeService.java
+END
+TestGraphService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestGraphService.java
+END
+TestSemanticService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestSemanticService.java
+END
+TestApplicationUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestApplicationUrl.java
+END
+TestHeaderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestHeaderUtil.java
+END
+TestTextDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestTextDecorator.java
+END
+TestRegExpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestRegExpUtil.java
+END
+TestValidationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestValidationUtil.java
+END
+TestStrings.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/428/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestStrings.java
+END
+TestImageTransformationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestImageTransformationService.java
+END
+TestRegExp.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestRegExp.java
+END
+TestPasswordEncryptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestPasswordEncryptionService.java
+END
+TestFileService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestFileService.java
+END
+TestURLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestURLUtil.java
+END
+TestImageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestImageService.java
+END
+TestHTMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestHTMLDocument.java
+END
+TestPersonName.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestPersonName.java
+END
+TestUrlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/plain/TestUrlBuilder.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop/Window.java
+END
+DesktopControlerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop/DesktopControlerBase.java
+END
+WindowProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop/WindowProperty.java
+END
+DesktopSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop/DesktopSession.java
+END
+DesktopController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop/DesktopController.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop/SearchResult.java
+END
+EntityWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/desktop/EntityWindow.java
+END

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+   "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+   "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+
+<package name="default" extends="struts-default">
+	<action name="listaSpettacoli" class="tesina.action.ListaSpettacoliAction">
+		<result>/views/lista_spettacoli.jsp</result>
+	</action>
+	
+	<action name="home">
+		<result>/index.jsp</result>
+	</action>
+	
+	<action name="about">
+		<result>/about-us.jsp</result>
+	</action>
+	
+	<action name="">
+		<result>/index.jsp</result>
+	</action>
+</package>
+
+<!-- Login check interceptor -->
+<include file="checklogin.xml" />
+
+<!-- Clienti package
+	 namespace="/clienti -->
+<include file="clienti.xml" />
+
+</struts>

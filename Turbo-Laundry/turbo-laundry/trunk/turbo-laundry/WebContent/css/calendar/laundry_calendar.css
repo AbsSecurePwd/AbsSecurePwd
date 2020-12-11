@@ -1,0 +1,101 @@
+@CHARSET "UTF-8";
+
+table.calendar {
+    margin:	10px;  
+    border-collapse: collapse;   
+   
+}
+
+table.calendar caption{
+	font-size: 110%;
+}
+
+table.calendar th{
+	font-size: 105%;	
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+table.calendar td {
+    border: thin solid #E0E0E0;
+    padding: 10px;
+    height: 50px;
+    width: 110px;
+    overflow: hidden;
+    
+}
+
+table.calendar td.current{
+	border: medium solid #FF6A6A; /* red */
+	font-weight: bold;
+	text-align:	left;
+    vertical-align: top	; 	
+}
+
+table.calendar td.currentLocked{
+	border: medium solid #FF6A6A; /* red */
+	font-weight: bold;
+	background-color: #EEE9E9; /* light grey */
+	font-style: italic;
+	text-align:	left;
+    vertical-align: top	; 
+}
+
+table.calendar td.notActive{
+	color:	#BEBEBE; /* grey */	
+	text-align:	left;
+    vertical-align: top	; 		
+}
+
+table.calendar td.locked{
+	background-color: #EEE9E9; /* light grey */
+	font-style: italic;
+	text-align:	left;
+    vertical-align: top	; 
+}
+
+.submitDay, .submitDayCurrent{
+	background: none;
+    border: none;
+    color: #000000;
+    font-size: 110%;
+    cursor: pointer;
+    padding: 0;
+}
+
+.submitDayCurrent{
+	font-weight: bold;
+}
+
+.dayMenu input{	
+	background: none;
+    border: none;
+    color: #000000;
+    cursor: pointer;
+    padding: 0;
+	font-size: 90%;	
+	text-align: right;
+	float:right;
+}
+
+#dcalendar
+{
+	background: white;
+	border-radius: 15px;	
+	padding-bottom: 5px;
+	-moz-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	box-shadow: 5px 5px rgba(0,0,0,0.5);
+	width: 70%;
+	
+}
+
+#welcome-calendar p
+{
+	font-family: 'Galindo', cursive;
+	color: white;
+	width: 70%;
+}
+

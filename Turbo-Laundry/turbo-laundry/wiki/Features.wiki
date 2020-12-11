@@ -1,0 +1,37 @@
+#summary List of user, supervisor and administrator features
+
+<h2>User Features</h2>
+<ul>
+<li>Log in / Log out.</li>
+<li>Change password.</li>
+<li>See the schedule.</li>
+<li>Book appropriate amount of 1 hour windows according to rules.</li>
+<li>Cancel booking according to rules.</li>
+<li>Personal Statistics page.</li>
+</ul>
+
+<h2>Supervisor Features</h2>
+<ul>
+<li>Log in / Log out.</li>
+<li>Change password.</li>
+<li>See the schedule.</li>
+<li>Book appropriate amount of 1 hour windows according to rules.</li>
+<li>Cancel booking according to rules.</li>
+<li>Personal Statistics page.</li>
+<li>Reset Users password.</li>
+<li>Penalty Users. (block user for a week)</li>
+<li>Cancel any laundry for this day and previous day</li>
+</ul>
+
+<h2>Administrator Features</h2>
+<ul>
+<li>Log in / Log out.</li>
+<li>Change password.</li>
+<li>Create User.</li>
+<li>Delete User.</li>
+<li>Edit User. </li>
+<li>See the schedule.</li>
+<li>Put money on Users accounts.</li>
+<li>General Statistics.</li>
+<li>Adding Supervisor divided by floor</li>
+</ul>

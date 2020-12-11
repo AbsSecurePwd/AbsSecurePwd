@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/lessons/admin/|build/src/lessons/|build/src/lessons/admin/|build/src/|src/lessons/|src/" kind="src" path=""/>
+	<classpathentry excluding="lessons/admin/|lessons/" kind="src" path="src"/>
+	<classpathentry excluding="admin/" kind="src" path="src/lessons"/>
+	<classpathentry kind="src" path="src/lessons/admin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/j2h.jar"/>
+	<classpathentry kind="lib" path="jars/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="jars/jta-spec1_0_1.jar"/>
+	<classpathentry kind="lib" path="jars/junit.jar"/>
+	<classpathentry kind="lib" path="jars/junitperf.jar"/>
+	<classpathentry kind="lib" path="jars/ecs-1.4.1.jar"/>
+	<classpathentry kind="lib" path="jars/idb.jar"/>
+	<classpathentry kind="lib" path="mockobjects/mockobjects-jdk1.3-j2ee1.3-0.09.jar"/>
+	<classpathentry kind="lib" path="jars/mockobjects-core.jar"/>
+	<classpathentry kind="output" path="build/WEB-INF/classes"/>
+</classpath>

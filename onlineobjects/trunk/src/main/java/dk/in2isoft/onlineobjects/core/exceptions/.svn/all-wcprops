@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions
+END
+SecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/SecurityException.java
+END
+ContentNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/ContentNotFoundException.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/ConfigurationException.java
+END
+NetworkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/NetworkException.java
+END
+ModelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/ModelException.java
+END
+IllegalRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/IllegalRequestException.java
+END
+ExplodingClusterFuckException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/ExplodingClusterFuckException.java
+END
+StupidProgrammerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/StupidProgrammerException.java
+END
+EndUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/core/exceptions/EndUserException.java
+END

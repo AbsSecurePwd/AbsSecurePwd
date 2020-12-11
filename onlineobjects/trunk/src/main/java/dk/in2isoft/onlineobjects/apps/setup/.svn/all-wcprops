@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup
+END
+SetupRemotingFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/SetupRemotingFacade.java
+END
+ApplicationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/ApplicationInfo.java
+END
+SetupControllerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/SetupControllerBase.java
+END
+SetupController.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/SetupController.java
+END
+EntityInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/setup/EntityInfo.java
+END

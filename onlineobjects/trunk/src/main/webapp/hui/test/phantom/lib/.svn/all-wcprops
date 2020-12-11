@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/439/trunk/src/main/webapp/hui/test/phantom/lib
+END
+syn.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/test/phantom/lib/syn.min.js
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/test/phantom/lib/qunit.js
+END
+compat.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/439/trunk/src/main/webapp/hui/test/phantom/lib/compat.js
+END

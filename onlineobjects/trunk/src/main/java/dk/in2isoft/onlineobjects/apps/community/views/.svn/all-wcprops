@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views
+END
+BaseView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/BaseView.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/UserInfo.java
+END
+UserProfileView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/UserProfileView.java
+END
+UsersView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/UsersView.java
+END
+ImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/ImageView.java
+END
+InvitationView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/InvitationView.java
+END
+SearchView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/SearchView.java
+END
+ImagesView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/views/ImagesView.java
+END

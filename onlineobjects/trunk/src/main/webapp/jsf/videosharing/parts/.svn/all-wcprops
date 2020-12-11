@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/videosharing/parts
+END
+videogrid.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/videosharing/parts/videogrid.xhtml
+END
+chartlist.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/videosharing/parts/chartlist.xhtml
+END
+largevideo.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/videosharing/parts/largevideo.xhtml
+END
+compact_videogrid.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/videosharing/parts/compact_videogrid.xhtml
+END
+videolist.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/videosharing/parts/videolist.xhtml
+END
+front_animation.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/webapp/jsf/videosharing/parts/front_animation.xhtml
+END

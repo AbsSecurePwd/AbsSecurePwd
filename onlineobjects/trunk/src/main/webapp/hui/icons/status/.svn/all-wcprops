@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/icons/status
+END
+running16.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/icons/status/running16.png
+END
+paused16.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/icons/status/paused16.png
+END
+waiting16.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/icons/status/waiting16.png
+END

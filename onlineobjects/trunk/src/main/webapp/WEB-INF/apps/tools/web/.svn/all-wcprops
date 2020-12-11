@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/448/trunk/src/main/webapp/WEB-INF/apps/tools/web
+END
+controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/controller.js
+END
+integration.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/integration.js
+END
+images.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/images.js
+END
+settings.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/settings.gui.xml
+END
+bookmarks.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/448/trunk/src/main/webapp/WEB-INF/apps/tools/web/bookmarks.js
+END
+persons.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/persons.js
+END
+integration.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/integration.gui.xml
+END
+images.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/448/trunk/src/main/webapp/WEB-INF/apps/tools/web/images.gui.xml
+END
+bookmarks_alone.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/bookmarks_alone.gui.xml
+END
+bookmarks.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/448/trunk/src/main/webapp/WEB-INF/apps/tools/web/bookmarks.gui.xml
+END
+persons.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/persons.gui.xml
+END
+settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/tools/web/settings.js
+END

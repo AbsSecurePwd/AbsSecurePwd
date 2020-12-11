@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/env-js/envjs/platform
+END
+node.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/env-js/envjs/platform/node.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/env-js/envjs/platform/core.js
+END
+spydermonkey.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/env-js/envjs/platform/spydermonkey.js
+END
+rubyracer.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/env-js/envjs/platform/rubyracer.js
+END
+johnson.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/env-js/envjs/platform/johnson.js
+END
+rhino.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/env-js/envjs/platform/rhino.js
+END

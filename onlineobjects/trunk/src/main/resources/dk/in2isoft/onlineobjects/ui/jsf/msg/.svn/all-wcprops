@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg
+END
+WordFinderComponent_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/WordFinderComponent_en.properties
+END
+WordFinderComponent_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/WordFinderComponent_da.properties
+END
+TopBarComponent_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/TopBarComponent_en.properties
+END
+TopBarComponent_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/TopBarComponent_da.properties
+END
+MapComponent_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/MapComponent_en.properties
+END
+FooterComponent_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/FooterComponent_en.properties
+END
+WordsComponent_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/WordsComponent_en.properties
+END
+GalleryComponent_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/GalleryComponent_en.properties
+END
+MapComponent_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/MapComponent_da.properties
+END
+WordsComponent_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/WordsComponent_da.properties
+END
+FooterComponent_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/FooterComponent_da.properties
+END
+GalleryComponent_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/ui/jsf/msg/GalleryComponent_da.properties
+END

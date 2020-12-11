@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/changes.txt
+END
+jsrun.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/jsrun.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/README.txt
+END
+jsrun.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/jsrun.jar
+END
+jsdebug.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/tools/jsdoc_toolkit/jsdebug.jar
+END

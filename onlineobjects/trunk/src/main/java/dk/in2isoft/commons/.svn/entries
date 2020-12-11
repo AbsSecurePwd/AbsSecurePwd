@@ -1,0 +1,55 @@
+10
+
+dir
+448
+http://onlineobjects.googlecode.com/svn/trunk/src/main/java/dk/in2isoft/commons
+http://onlineobjects.googlecode.com/svn
+
+
+
+2015-06-28T18:34:59.367245Z
+448
+jonasmunk@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5530ac32-103f-0410-b6ed-6dd1d42eacca
+
+geo
+dir
+
+util
+dir
+
+vcard
+dir
+
+http
+dir
+
+xml
+dir
+
+lang
+dir
+
+jsf
+dir
+
+parsing
+dir
+
+filesystem
+dir
+

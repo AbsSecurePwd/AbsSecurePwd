@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/remoting
+END
+MapQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/remoting/MapQuery.java
+END
+MapPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/remoting/MapPoint.java
+END
+InternetAddressInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/remoting/InternetAddressInfo.java
+END
+CommunityRemotingFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/remoting/CommunityRemotingFacade.java
+END
+CommunityToolsRemotingFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/community/remoting/CommunityToolsRemotingFacade.java
+END

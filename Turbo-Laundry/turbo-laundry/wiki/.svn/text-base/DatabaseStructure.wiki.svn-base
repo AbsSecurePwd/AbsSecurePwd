@@ -1,0 +1,15 @@
+As we have discussed last time, I am posting a database structure (Visio is pain-in-the-ass connector program). As soon as possible I'll make Database scripts which will allow you to create this database. 
+
+This database will be created on the MS SQL 2008 of 2012 so you can start download it (can be express version). More importantly, just look at this structure and re-think about it. 
+
+And here's the db structure:
+
+https://dl.dropbox.com/u/17996245/DB_structure.jpg
+
+
+visio file version (visio 2010):
+
+
+https://dl.dropbox.com/u/17996245/DB_structure.vsd
+
+Cheers. 

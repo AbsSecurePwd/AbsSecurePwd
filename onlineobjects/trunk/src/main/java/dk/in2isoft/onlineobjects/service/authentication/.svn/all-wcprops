@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/413/trunk/src/main/java/dk/in2isoft/onlineobjects/service/authentication
+END
+LoginPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/service/authentication/LoginPage.java
+END
+AuthenticationControllerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/service/authentication/AuthenticationControllerBase.java
+END
+AuthenticationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/service/authentication/AuthenticationController.java
+END

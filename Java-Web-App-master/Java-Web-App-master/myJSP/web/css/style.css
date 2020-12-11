@@ -1,0 +1,97 @@
+/* 
+    Created on : Sep 2, 2018, 9:02:47 PM
+    Author     : Kayee
+*/
+body {font-family: Arial, Helvetica, sans-serif;}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+th, td {
+    text-align: left;
+    line-height: 30px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+.table-container { padding: 0 10% 0 10%; }
+.home-container h1,.home-container h2, .welcomePage-contaniner h1 {
+    text-align: center;
+    font-size: 10vh;
+    padding: 3%;
+}
+.login-container {
+    padding: 5% 20% 10% 20%;
+}
+.signup-container {
+    padding: 5% 20% 10% 20%;
+}
+.booking-container {
+    padding: 1% 20% 1% 20%;
+}
+
+login-form {border: 3px solid #f1f1f1; padding: 2% 2% 2% 2%;}
+signup-form {border: 3px solid #f1f1f1; padding: 2% 2% 2% 2%;}
+booking-form {border: 3px solid #f1f1f1; padding: 2% 2% 2% 2%;}
+
+input[type=text], input[type=email], input[type=password], input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+input[type=text]:focus, input[type=email]:focus, input[type=password]:focus, input[type=date]:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+}
+
+input[type=submit] {
+    background-color: #008CBA;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover, form.searchbar button:hover{
+    opacity: 0.8;
+}
+
+/* Search Bar ---------------------------------------------- */
+
+.searchbar {
+    padding: 2% 10% 3% 10%; 
+}
+
+form.searchbar input[type=text]{
+    margin: auto;
+    width:20%;
+    float: left;
+}
+form.searchbar button {
+    background-color: #008CBA;
+    color: white;
+    float: left;
+    width: 10%;
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid grey;
+    cursor: pointer;
+}
+.hidden {
+    visibility: hidden;
+}
+.message { padding: 2% 5% 0 5%; }
+
+.assignHeading { padding: 2% 5% 0 5%; }
+
+.content { padding-left: 10%; }
+.welcomePage-contaniner h3, .welcomePage-contaniner h4 { padding-left: 10%; }

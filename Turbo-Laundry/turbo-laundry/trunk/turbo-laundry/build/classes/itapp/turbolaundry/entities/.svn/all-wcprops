@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities
+END
+Floor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities/Floor.java
+END
+Supervisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities/Supervisor.java
+END
+Blocked.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities/Blocked.java
+END
+AdminUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities/AdminUser.java
+END
+LUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities/LUser.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities/Account.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/150/trunk/turbo-laundry/src/itapp/turbolaundry/entities/Room.java
+END

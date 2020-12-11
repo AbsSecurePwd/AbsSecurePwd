@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/reader/perspective
+END
+FeedPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/reader/perspective/FeedPerspective.java
+END
+ArticlePerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/reader/perspective/ArticlePerspective.java
+END
+ListItemPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/reader/perspective/ListItemPerspective.java
+END
+WordPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/reader/perspective/WordPerspective.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/geo
+END
+GeoLatLng.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/geo/GeoLatLng.java
+END
+GeoPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/geo/GeoPoint.java
+END
+GeoDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/geo/GeoDistance.java
+END

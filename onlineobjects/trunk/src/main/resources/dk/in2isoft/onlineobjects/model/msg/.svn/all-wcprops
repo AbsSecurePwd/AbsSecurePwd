@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/resources/dk/in2isoft/onlineobjects/model/msg
+END
+Language_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/resources/dk/in2isoft/onlineobjects/model/msg/Language_en.properties
+END
+Language_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/resources/dk/in2isoft/onlineobjects/model/msg/Language_da.properties
+END
+LexicalCategory_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/resources/dk/in2isoft/onlineobjects/model/msg/LexicalCategory_en.properties
+END
+LexicalCategory_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/resources/dk/in2isoft/onlineobjects/model/msg/LexicalCategory_da.properties
+END

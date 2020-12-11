@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:c="http://java.sun.com/jsp/jstl/core"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <c:if test="#{cart.checkoutDone}">
+            <script>
+                window.location = "/OnlineShop/faces/Checkout.xhtml";
+            </script>
+        </c:if>
+        <h1>Your cart</h1>
+        <p>
+            <c:choose>
+                <c:when test="#{not empty account.account}">
+                    Welcome, ${account.account.fullname}! 
+                    <c:if test='#{account.account.rolename == "admin"}'>
+                    [<a href="/OnlineShop/faces/Admin.xhtml">Admin Panel</a>]
+                    </c:if>
+                    <h:form>
+                        <h:commandButton action="#{account.logout}" value="Logout"/>
+                    </h:form>
+                </c:when>
+                <c:otherwise>
+                    [<a href="/OnlineShop/faces/Login.xhtml">Login</a>]
+                </c:otherwise>
+            </c:choose>
+        </p>
+        <hr/>
+        <c:set var="total" value="0" />
+        <center>
+            <p><a href="/OnlineShop/faces/index.xhtml">Back to homepage</a></p>
+            <table border="1">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Action</th>
+                </tr>
+                <c:forEach items="#{cart.cart}" var="product">
+                     <c:set var="total" value="${total + product.price * product.quantity}" />
+                    <h:form>
+                        <tr>
+                            <td>#{product.productId}</td>
+                            <td>#{product.name}</td>
+                            <td>#{product.description}</td>
+                            <td>\$ #{product.price}</td>
+                            <td>#{product.quantity}</td>
+                            <td>
+                                <h:commandButton action="#{cart.removeProduct}" value="Remove One" >
+                                    <f:setPropertyActionListener value="#{product.productId}" 
+                                                                 target="#{cart.selectedProduct}" />
+                                </h:commandButton>
+                                <h:commandButton action="#{cart.removeProductAll}" value="Remove ALL" >
+                                    <f:setPropertyActionListener value="#{product.productId}" 
+                                                                 target="#{cart.selectedProduct}" />
+                                </h:commandButton>
+
+                            </td>
+                        </tr>
+                    </h:form>
+                </c:forEach>
+                <tr>
+                    <td colspan="3">Total:</td>
+                    <td colspan="2">\$ ${total}</td>
+                </tr>
+            </table>
+            <br/>
+            <br/>
+            <c:choose>
+                <c:when test="#{not empty account.account}">
+                    <h:form>
+                        <h:commandButton action="#{cart.checkout}" value="Checkout" >
+                        </h:commandButton>
+                    </h:form>
+                </c:when>
+                <c:otherwise>
+                    <a href="/OnlineShop/faces/Login.xhtml">Login</a> to checkout!
+                </c:otherwise>
+            </c:choose>
+
+        </center>
+    </h:body>
+</html>
+

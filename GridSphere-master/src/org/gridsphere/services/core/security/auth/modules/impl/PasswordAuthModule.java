@@ -1,0 +1,55 @@
+/**
+ * @author <a href="mailto:novotny@gridsphere.org">Jason Novotny</a>
+ * @version $Id$
+ */
+package org.gridsphere.services.core.security.auth.modules.impl;
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+import org.gridsphere.portlet.service.spi.PortletServiceFactory;
+import org.gridsphere.services.core.security.auth.AuthenticationException;
+import org.gridsphere.services.core.security.auth.modules.LoginAuthModule;
+import org.gridsphere.services.core.security.auth.modules.impl.descriptor.AuthModuleDefinition;
+import org.gridsphere.services.core.security.password.InvalidPasswordException;
+import org.gridsphere.services.core.security.password.PasswordManagerService;
+import org.gridsphere.services.core.security.password.impl.PasswordManagerServiceImpl;
+import org.gridsphere.services.core.user.User;
+
+public  class PasswordAuthModule extends BaseAuthModule implements LoginAuthModule {
+
+    private PasswordManagerService passwordManager = null;
+
+    private Log log = LogFactory.getLog(PasswordAuthModule.class);
+
+    public PasswordAuthModule(AuthModuleDefinition moduleDef) {
+
+        super(moduleDef);
+
+        // Get instance of password manager service
+        try {
+            this.passwordManager = new PasswordManagerServiceImpl();
+            		//(PasswordManagerService) PortletServiceFactory.createPortletService(PasswordManagerService.class, true);
+        } catch (Exception e) {
+            log.error("Unable to get instance of password manager service!", e);
+        }
+    }
+
+    public void checkAuthentication(User user, String password) throws AuthenticationException {
+    	String pass = password;
+        log.debug("Entering authenticate");
+        // Check that password is not null
+        if (pass== null) {
+            log.debug("Password is not provided.");
+            throw new AuthenticationException("key1");
+        }
+        // Check that password maps to the given user
+        try {
+        	new PasswordManagerServiceImpl().validateSuppliedPassword(user, pass);
+        } catch (InvalidPasswordException e) {
+            log.debug("Incorrect password provided.");
+            throw new AuthenticationException("key2");
+        }
+    }
+
+
+}

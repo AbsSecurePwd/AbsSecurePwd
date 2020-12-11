@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/413/trunk/sql
+END
+db_new.sql
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/249/trunk/sql/db_new.sql
+END
+schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/388/trunk/sql/schema.sql
+END
+update1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/59/trunk/sql/update1.sql
+END
+update2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/103/trunk/sql/update2.sql
+END
+db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/59/trunk/sql/db.sql
+END
+db_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/152/trunk/sql/db_update.sql
+END
+schema_new.sql
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/413/trunk/sql/schema_new.sql
+END

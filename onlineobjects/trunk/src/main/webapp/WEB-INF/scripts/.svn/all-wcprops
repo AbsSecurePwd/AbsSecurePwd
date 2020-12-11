@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/scripts
+END
+paparazzi.app
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/scripts/paparazzi.app
+END
+paparazzi.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/scripts/paparazzi.scpt
+END
+toPdf.app
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/scripts/toPdf.app
+END

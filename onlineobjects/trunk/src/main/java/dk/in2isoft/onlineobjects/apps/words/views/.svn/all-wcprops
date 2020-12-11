@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views
+END
+WordsEnrichmentView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsEnrichmentView.java
+END
+WordsLayoutView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsLayoutView.java
+END
+WordCandidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordCandidate.java
+END
+WordsSearchView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsSearchView.java
+END
+WordsImportListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/428/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsImportListView.java
+END
+WordsIndexView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsIndexView.java
+END
+WordsFrontView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/428/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsFrontView.java
+END
+WordsImportView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsImportView.java
+END
+WordsStatisticsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsStatisticsView.java
+END
+WordsWordView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/WordsWordView.java
+END

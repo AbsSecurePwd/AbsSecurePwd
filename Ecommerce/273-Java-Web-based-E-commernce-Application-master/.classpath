@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/cos.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/fileupload.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/struts.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/uploadbean.jar"/>
+	<classpathentry kind="lib" path="jLibsEssentials/cos.jar"/>
+	<classpathentry kind="lib" path="jLibsEssentials/fileupload.jar"/>
+	<classpathentry kind="lib" path="jLibsEssentials/struts.jar"/>
+	<classpathentry kind="lib" path="jLibsEssentials/uploadbean.jar"/>
+	<classpathentry kind="lib" path="libs/cos.jar"/>
+	<classpathentry kind="lib" path="libs/fileupload.jar"/>
+	<classpathentry kind="lib" path="libs/struts.jar"/>
+	<classpathentry kind="lib" path="libs/uploadbean.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/javax.servlet-3.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

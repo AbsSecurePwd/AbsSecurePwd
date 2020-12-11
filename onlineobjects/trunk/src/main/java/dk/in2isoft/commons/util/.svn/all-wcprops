@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/commons/util
+END
+StackTraceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/util/StackTraceUtil.java
+END
+RegExpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/util/RegExpUtil.java
+END
+RestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/commons/util/RestUtil.java
+END
+AbstractCommandLineInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/util/AbstractCommandLineInterface.java
+END
+HQLBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/util/HQLBuilder.java
+END

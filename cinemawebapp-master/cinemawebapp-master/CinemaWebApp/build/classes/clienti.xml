@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+   "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+   "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+
+   <package name="clienti" namespace="/clienti" extends="struts-default">
+   
+   		<action name="compraBiglietto" class="tesina.action.CompraBigliettoAction">
+   			<result name="error">/views/lista_spettacoli.jsp</result>
+   			<result name="input">/views/lista_spettacoli.jsp</result>
+   			<result name="success" >/forms/acquista_biglietto_form.jsp</result>
+   		</action>
+   		
+   		<action name="acquisto" class="tesina.action.BigliettoAction">
+   			<result name="success">/views/biglietti.jsp</result>
+   			
+   			<result name="*" type="chain">
+   				<param name="actionName">compraBiglietto</param>
+   			</result>
+   		</action>
+	   	
+	   	<action name="signup" class="tesina.action.SignupClienteAction">
+	   		<result name="success">/forms/login_form.jsp</result>
+	   		<result name="*" >/forms/login_form.jsp</result>
+	   	</action>
+	   	
+	    <action name="loginForm">
+	    	<result>/forms/login_form.jsp</result>
+	    </action>
+	    
+	    <action name="login" class="tesina.action.LoginClientiAction" method="login">
+	    	<result name="success" type="redirectAction">
+	    		<param name="actionName">home</param>
+	    		<param name="namespace">/</param>
+	    	</result>
+
+	    	<result name="input">/forms/login_form.jsp</result>
+	    </action>
+	   	
+	   	<action name="logout" class="tesina.action.LoginClientiAction" method="logout">
+	   		<result>/forms/login_form.jsp</result>
+	   	</action>
+	   	
+   </package>
+   
+</struts>

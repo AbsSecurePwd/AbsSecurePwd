@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/vcard
+END
+VCardEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/vcard/VCardEmail.java
+END
+VCardPhone.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/vcard/VCardPhone.java
+END
+VCardParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/vcard/VCardParser.java
+END
+VCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/vcard/VCard.java
+END

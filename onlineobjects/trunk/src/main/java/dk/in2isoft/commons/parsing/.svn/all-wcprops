@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/commons/parsing
+END
+XMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/parsing/XMLDocument.java
+END
+TextDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/parsing/TextDocument.java
+END
+HTMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/448/trunk/src/main/java/dk/in2isoft/commons/parsing/HTMLDocument.java
+END
+HTMLReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/commons/parsing/HTMLReference.java
+END

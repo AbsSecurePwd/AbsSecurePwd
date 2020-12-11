@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/421/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic
+END
+TestFeedParsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestFeedParsing.java
+END
+TestEmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestEmailService.java
+END
+TestNetworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/421/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestNetworkService.java
+END
+TestComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestComparison.java
+END
+TestFeedComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestFeedComparison.java
+END
+TestMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestMail.java
+END
+TestHTMLService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestHTMLService.java
+END
+TestRemoteDataService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestRemoteDataService.java
+END
+TestDictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/413/trunk/src/test/java/dk/in2isoft/onlineobjects/test/traffic/TestDictionaryService.java
+END

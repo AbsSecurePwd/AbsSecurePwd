@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/util
+END
+RelationOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/util/RelationOption.java
+END
+UrlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/util/UrlBuilder.java
+END
+LanguageStatistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/util/LanguageStatistic.java
+END
+StatisticsDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/words/views/util/StatisticsDataProvider.java
+END

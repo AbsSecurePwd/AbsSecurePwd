@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/446/trunk/src/main/webapp/hui/xslt
+END
+links.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/xslt/links.xsl
+END
+other.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/xslt/other.xsl
+END
+toolbar.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/xslt/toolbar.xsl
+END
+gui.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/446/trunk/src/main/webapp/hui/xslt/gui.xsl
+END
+formula.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/444/trunk/src/main/webapp/hui/xslt/formula.xsl
+END
+layout.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/xslt/layout.xsl
+END

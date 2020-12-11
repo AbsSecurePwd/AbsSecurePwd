@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/colorbrewer
+END
+colorbrewer.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/colorbrewer/colorbrewer.css
+END
+colorbrewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/colorbrewer/colorbrewer.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/colorbrewer/LICENSE
+END

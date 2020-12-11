@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/416/trunk/src/test/resources
+END
+language_wikipedia.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/413/trunk/src/test/resources/language_wikipedia.html
+END
+test.properties.example
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/416/trunk/src/test/resources/test.properties.example
+END
+applicationContext.test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/416/trunk/src/test/resources/applicationContext.test.xml
+END
+article.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/413/trunk/src/test/resources/article.html
+END
+testImageWithGPS.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/413/trunk/src/test/resources/testImageWithGPS.jpg
+END
+loremipsum.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/413/trunk/src/test/resources/loremipsum.txt
+END

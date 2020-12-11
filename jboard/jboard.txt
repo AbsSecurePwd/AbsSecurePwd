@@ -1,0 +1,8 @@
+Analyzing JAR: E:\Security and Password\Jan 2020\workspace\\jboard.jar
+Total Heuristics: 0
+Total Orthogonal: 0
+Total Constants: 0
+Total Slices: 0
+Average Length: 0.0
+Depth: 1, Count 0
+Depth: 2, Count 0

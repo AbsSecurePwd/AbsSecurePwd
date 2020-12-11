@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private
+END
+bookmarks.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/bookmarks.gui.xml
+END
+persons.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/persons.gui.xml
+END
+settings.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/settings.js
+END
+controller.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/controller.js
+END
+integration.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/integration.js
+END
+images.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/images.js
+END
+settings.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/settings.gui.xml
+END
+bookmarks.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/bookmarks.js
+END
+persons.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/persons.js
+END
+integration.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/integration.gui.xml
+END
+images.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/images.gui.xml
+END
+bookmarks_alone.gui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/community/web/gui/private/bookmarks_alone.gui.xml
+END

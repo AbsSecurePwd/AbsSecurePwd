@@ -1,0 +1,208 @@
+@CHARSET "UTF-8";
+
+/* main.css by Bill Weinman http://bw.org/contact
+  v 1.0 - 2012-05-20
+*/
+
+/* reset margins */
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, ol, ul, li,
+blockquote, pre, form, label, legend, table, caption, tbody, tfoot, thead,
+tr, th, td, article, aside, canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output, section, summary, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* setup body */
+body{
+	margin:0;
+	padding:0;
+    line-height: 1.2;
+    font-family: Verdana, sans-serif;
+    font-size: medium;
+    background: url("../img/bg.png") top left repeat; 
+}
+
+/* reasonable starting margins */
+/*h1, h2, h3, h4, h5, h6, ol, ul, li { margin: .5ex 12pt; }*/
+p { margin: 1ex 12pt; }
+li { margin-left: 2em; }
+
+/* setup headings */
+/*h1, h2, h3, h4, h5, h6 {
+    line-height: 1;
+    font-weight: bold;
+}*/
+
+h1 { font-size: 120%; }
+h2 { font-size: 110%; }
+h3 { font-size: 100%; }
+h4 { font-size: 100%; }
+h5 { font-size: 100%; }
+h6 { font-size: 100%; }
+
+/*class for centering container */
+.center 
+{
+	position:relative;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	width:860px;
+}
+
+/*login form style*/
+#login
+{
+	margin-top:6em;
+	margin-bottom: 8em;
+	margin-left: auto;   
+	margin-right: auto;   
+	width: 23em;
+	height:10em;
+	background: white;
+	border-radius: 15px;
+		
+}
+#header
+{
+	 background: url("../img/header_bg2.png")  repeat-x; 
+
+	 height: 165px;
+	 font-family: 'Chango', cursive;
+	 font-size: 36px;
+	 color: white;	 
+}
+#header h1
+{
+	padding-left: 1.2em;
+	padding-top: 0.5em;
+	padding-bottom: 0.3em;
+	
+}
+
+#navigation
+{
+	font-size: 20px;
+	float:right;
+	padding-right: 5em;
+}
+
+#navigation ul
+{
+	
+	list-style-type: none;
+	height: 80px;
+	margin: auto;
+	
+}
+
+#navigation li
+{
+	float: left;
+}
+
+#navigation ul a 
+{
+	
+	display: block;	
+	text-decoration: none;	
+	color: white;
+}
+#navigation ul a:hover
+{
+	color: #C0C0C0;
+}
+
+
+#login
+{
+	-moz-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	box-shadow: 5px 5px rgba(0,0,0,0.5);
+}
+#login h1
+{
+	padding-top: 0.5em;
+	padding-left: 1.0em;
+}
+
+#footer
+{
+	font-family: 'Galindo', cursive;
+	color: white;
+	margin-top: 12em;
+}
+
+#form-login
+{
+	padding-top:0.5em;
+	margin: 0px auto;
+	width: 70%;
+}
+
+#message
+{
+	margin-left:2em;
+	
+}
+
+#rules
+{
+	background: white;
+	border-radius: 15px;	
+	padding-bottom: 5px;
+	-moz-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	box-shadow: 5px 5px rgba(0,0,0,0.5);
+	width: 50%;
+}
+
+#rules ol
+{
+	padding: 1.5em 1.5em 1.5em 1.5em;
+}
+
+#rules li
+{
+	padding-top: 1em;
+}
+
+#report
+{
+	background: white;
+	border-radius: 15px;	
+	padding-bottom: 5px;
+	-moz-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 5px 5px rgba(0,0,0,0.5);
+	box-shadow: 5px 5px rgba(0,0,0,0.5);
+	width: 50%;
+	height: 10em;
+}
+
+#report #fromstr
+{
+	margin-top:5em;
+	
+}
+
+
+
+#report label
+{
+	margin-left: 5em;
+}
+
+#report-form 
+{
+	margin-top: 2em;
+	margin-left: 2em;
+}
+
+
+
+

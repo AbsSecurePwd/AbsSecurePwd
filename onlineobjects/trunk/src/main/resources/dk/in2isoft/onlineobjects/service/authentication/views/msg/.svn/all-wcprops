@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/service/authentication/views/msg
+END
+AuthenticationLoginView_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/service/authentication/views/msg/AuthenticationLoginView_en.properties
+END
+AuthenticationLoginView_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/413/trunk/src/main/resources/dk/in2isoft/onlineobjects/service/authentication/views/msg/AuthenticationLoginView_da.properties
+END

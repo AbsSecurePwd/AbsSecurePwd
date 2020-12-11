@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/remote
+END
+RemoteImageGallery.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/remote/RemoteImageGallery.java
+END
+RemoteWebSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/remote/RemoteWebSite.java
+END
+RemoteArticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/remote/RemoteArticle.java
+END
+RemoteStatusUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/remote/RemoteStatusUpdate.java
+END
+RemoteAccountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/remote/RemoteAccountInfo.java
+END

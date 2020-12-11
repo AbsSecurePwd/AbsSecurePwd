@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/411/trunk/src/main/java/org/onlineobjects/common
+END
+ListAuditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/org/onlineobjects/common/ListAuditor.java
+END
+Auditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/java/org/onlineobjects/common/Auditor.java
+END
+VoidAuditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/411/trunk/src/main/java/org/onlineobjects/common/VoidAuditor.java
+END

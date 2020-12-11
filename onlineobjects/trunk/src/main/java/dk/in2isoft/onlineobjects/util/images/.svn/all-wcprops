@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/images
+END
+ImageProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/images/ImageProperties.java
+END
+ImageMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/images/ImageMetaData.java
+END
+ImageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/images/ImageService.java
+END
+ImageTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/images/ImageTransformation.java
+END
+ImageTransformationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/images/ImageTransformationService.java
+END
+ImageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/util/images/ImageInfo.java
+END

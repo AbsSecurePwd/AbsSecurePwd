@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="11.5.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>70</x>
+      <y>0</y>
+      <w>290</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>Day
+Package::itapp.turbolaundry.entities
+--
+-dDate: Date
+-locked: boolean
+--
++getDDate(): Date
++setDDate(d: Date)
++isLocked(): boolean
++setLocked(b: boolean)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>70</x>
+      <y>170</y>
+      <w>270</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes>Window
+Package::itapp.turbolaundry.entities
+--
+-winNumber: byte
+-roomNumber: byte
+-locked: boolean
+--
++getWinNumber(): byte
++setWinNunmer(b: byte)
++getRoomNumber(): byte
++setRoomNumber(r: byte)
++isLocked(): boolean
++setLocked(b: boolean)</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

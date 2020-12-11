@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/428/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/photos/views
+END
+PhotosFrontView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/photos/views/PhotosFrontView.java
+END
+PhotosPhotoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/photos/views/PhotosPhotoView.java
+END
+PhotosLayoutView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/photos/views/PhotosLayoutView.java
+END
+PhotosUserView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/photos/views/PhotosUserView.java
+END
+PhotosGalleryView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/428/trunk/src/main/java/dk/in2isoft/onlineobjects/apps/photos/views/PhotosGalleryView.java
+END

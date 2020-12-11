@@ -1,0 +1,116 @@
+#summary Detailed description of a system with functional requirements
+#labels Phase-Requirements
+
+<h1>User</h1>
+<ul>
+<li>Profile Page (uprofile.jsp)
+<p>
+Features: 
+  * change password
+  * info about the user
+</p>
+
+</li>
+
+<li>Schedule Page (uschedule.jsp)
+<p>
+Features:
+  * Calendar showing 5 weeks, divided into active|blocked parts (greyed out)
+  * Clicking on a date will redirect to a day page. 
+</p>
+
+</li>
+<li>Day Page (day.jsp)
+<p>
+Features:
+  * Day have 24 cells to make a reservation.
+  * Cells will be divided into: free cell (green), reserved cell by  active user (blue), reserved cell by other users (red)
+  * Clicking on a free cell will fire "making reservation" function - result will be either success or exception
+  * Clicking on a reserved by active user cell will fire "cancel reservation" function - when possible or exception
+  * clicking on a reserved by other user cell will do nothing
+</p>
+</li>
+<li>Statistics Page (statistics.jsp)
+<p>
+Features:
+  * showing statistics of usage by active user in requested period (query to database)
+</p>
+
+</li>
+</ul>
+
+<h1>Supervisor</h1>
+<p>Supervisor has all features as normal user has + additional features
+</p>
+<ul>
+<li>Users Page (susers.jsp)
+<p>
+Features:
+  * List of all users (grid view), with options for each user block|reset password|info about user
+ 
+
+</p>
+</li>
+<li>
+Calendar Page (sschedule.jsp)
+<p>The same as normal user +
+  *  Can cancel whole day (only previous day in the past)
+  *  Can lock booking for the day
+  *  Can unlock booking for the day
+</p>
+</li>
+
+<li>Day Page (sday.jsp)
+<p>
+  *  Reserved cells can be cancelled (only previous day in the past)
+  *  Lock window
+  *  Unlock window
+  
+</p>
+</li>
+</ul>
+
+<h1>Administrator</h1>
+<ul>
+<li>
+User Page (ausers.jsp)
+<p>Features:
+  * Add user
+  * Administrator can list all of users (grid view) with options: edit User|delete User|info about user
+  * Supervisors are marked with other colour
+  * Edit User ---> add money,change room,mark as supervisor
+
+</p>
+</li>
+
+<li>
+Supervisors Page (asupervisors.jsp)
+<p>Features:
+  * List of supervisors divided by floors (grid view)
+
+</p>
+</li>
+
+<li>
+Schedule Page (aschedule.jsp)
+<p>Features:
+  * Administrator can see the schedule, but without the editing (I think that it might be good to give him the same privileges as Supervisor has)
+
+</p>
+</li>
+
+<li> Put money on user's account page (amoney.jsp)
+<p>
+Features:
+  * Faster way to put money (it is possibility to incidentally change/delete information about user if use edit user page too often)
+</p>
+</li>
+
+<li>General Statistics Page (astatistics.jsp)
+<p>
+Features:
+  * should be defined (query to database)
+</p>
+
+</li>
+</ul>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/words/web/style/js
+END
+words.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/words/web/style/js/words.js
+END
+import_list_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/words/web/style/js/import_list_view.js
+END
+enrich_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/words/web/style/js/enrich_view.js
+END
+import_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/words/web/style/js/import_view.js
+END
+word_view.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/webapp/WEB-INF/apps/words/web/style/js/word_view.js
+END

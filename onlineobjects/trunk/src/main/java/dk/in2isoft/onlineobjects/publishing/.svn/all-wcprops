@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing
+END
+DocumentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing/DocumentBuilder.java
+END
+Part.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing/Part.java
+END
+ImageGalleryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing/ImageGalleryBuilder.java
+END
+CompoundDocumentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing/CompoundDocumentBuilder.java
+END
+FeedBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing/FeedBuilder.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing/Document.java
+END
+FeedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/411/trunk/src/main/java/dk/in2isoft/onlineobjects/publishing/FeedWriter.java
+END

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Checkout</title>
+	    <!-- Bootstrap for CSS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/login.css">
+</head>
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="navbar-toggler-icon"></span>
+	      </button>
+	    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+	        <div class="navbar-nav">
+	          <a class="nav-item nav-link active" href="cart.html">Checkout</a>
+	          <a class="nav-item nav-link active" href="search.html">Search</a>
+	        </div>
+	    </div>  
+	    <form class="form-inline">
+	    	<input type="text" placeholder="Search for a movie" name="movie" class="autocomplete-searchbox form-control" id="autocomplete" required>
+	    	<input class="btn btn-outline-success my-2 my-sm-0" id="search" type="submit" value="Search">
+	    </form>
+	</nav>
+
+	<div id="container">
+		<table id=cart_table class="table table-striped">
+		    <thead>
+		    <tr>
+		        <th>Movie</th>
+		        <th>Quantity</th>
+		    </tr>
+		    </thead>
+		
+		    <tbody id=cart_table_body></tbody>
+		</table>
+	</div>
+
+
+	<button id="cart" onclick="checkout()">Proceed to checkout</button>
+
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+
+<script src="./js/cart.js"></script>
+</html>

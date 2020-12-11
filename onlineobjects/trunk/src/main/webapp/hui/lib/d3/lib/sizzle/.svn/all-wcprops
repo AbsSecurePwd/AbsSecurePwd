@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/sizzle
+END
+sizzle.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/sizzle/sizzle.js
+END
+sizzle.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/sizzle/sizzle.min.js
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/411/trunk/src/main/webapp/hui/lib/d3/lib/sizzle/LICENSE
+END

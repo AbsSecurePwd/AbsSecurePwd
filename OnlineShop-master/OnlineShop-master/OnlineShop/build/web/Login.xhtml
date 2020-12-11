@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:c="http://java.sun.com/jsp/jstl/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <c:if test="#{not empty account.account}">
+            <script>
+                window.location = "/OnlineShop/faces/index.xhtml";
+            </script>
+        </c:if>
+        <h1>Login</h1>
+        <p><font color="red">#{account.errMess}</font></p>
+        <h:form>
+            Username: <h:inputText value="#{account.username}" title="Username"/><br/>
+            Password: <h:inputSecret value="#{account.password}" title="Password"/><br/>
+            <h:commandButton action="#{account.login}" value="Login" />
+        </h:form>
+    </h:body>
+</html>
+

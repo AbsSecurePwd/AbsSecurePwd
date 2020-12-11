@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:c="http://java.sun.com/jsp/jstl/core"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <c:if test="#{cart.checkoutDone}">
+            <script>
+                window.location = "/OnlineShop/faces/Checkout.xhtml";
+            </script>
+        </c:if>
+        
+        <style>
+            table input[type=text] {
+                width: 20px;
+            }
+        </style>
+        <h1>All Products</h1>
+        <p>
+            <c:choose>
+                <c:when test="#{not empty account.account}">
+                    Welcome, ${account.account.fullname}! 
+                    <c:if test='#{account.account.rolename == "admin"}'>
+                    [<a href="/OnlineShop/faces/Admin.xhtml">Admin Panel</a>]
+                    </c:if>
+                    <h:form>
+                        <h:commandButton action="#{account.logout}" value="Logout"/>
+                    </h:form>
+                </c:when>
+                <c:otherwise>
+                    [<a href="/OnlineShop/faces/Login.xhtml">Login</a>]
+                </c:otherwise>
+            </c:choose>
+        </p>
+        <hr/>
+        <center>
+            <h:form>
+                <p>
+                    <a href="/OnlineShop/faces/Cart.xhtml">View cart</a>
+                </p>
+            </h:form>
+            <p><font color="red">#{cart.maxQuantityErr}</font></p>
+            <table border="1">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Action</th>
+                </tr>
+
+                <c:forEach items="#{home.products}" var="product" varStatus="counter">
+                    <h:form>
+                        <tr>
+                            <td>#{product.productId}</td>
+                            <td>#{product.name}</td>
+                            <td>#{product.description}</td>
+                            <td>\$ #{product.price}</td>
+                            <td>#{product.quantity}</td>
+                            <td>
+                                <h:inputText value="#{cart.selectedQuantity}"/>
+                                <h:commandButton action="#{cart.addProduct}" value="Add to cart" >
+                                    <f:setPropertyActionListener value="#{product.productId}" 
+                                                                 target="#{cart.selectedProduct}" />
+                                </h:commandButton>
+                            </td>
+                        </tr>
+                    </h:form>
+                </c:forEach>
+            </table>
+        </center>
+    </h:body>
+</html>
+

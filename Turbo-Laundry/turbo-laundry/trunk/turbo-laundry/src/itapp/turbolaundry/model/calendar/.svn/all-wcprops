@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/173/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar
+END
+AdminLCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/163/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/AdminLCalendar.java
+END
+Bookable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/154/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/Bookable.java
+END
+CalendarFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/93/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/CalendarFactory.java
+END
+DateUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/163/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/DateUtility.java
+END
+AdminLDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/100/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/AdminLDay.java
+END
+SuperLCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/152/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/SuperLCalendar.java
+END
+UserLCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/111/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/UserLCalendar.java
+END
+LCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/121/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/LCalendar.java
+END
+SuperLDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/173/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/SuperLDay.java
+END
+UserLDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/169/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/UserLDay.java
+END
+LDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/152/trunk/turbo-laundry/src/itapp/turbolaundry/model/calendar/LDay.java
+END
